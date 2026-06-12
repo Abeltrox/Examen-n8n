@@ -1,7 +1,7 @@
 ﻿# Examen-n8n Oscar Abel Bonilla Garcia
 
 Sistema de Alerta de Stock Crítico
-´´´´{
+`````{
   "nodes": [
     {
       "parameters": {
@@ -3043,4 +3043,4 @@ Sistema de Alerta de Stock Crítico
     "templateCredsSetupCompleted": true,
     "instanceId": "1901914c7c000a29b791c1c77b6a2b3c3174e98d95bb356f02edb6b1442b299a"
   }
-}´´´´
+}`````
